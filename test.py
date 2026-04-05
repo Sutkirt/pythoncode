@@ -1,1 +1,1 @@
-print("Hello Dosto !! v8")
+prin("Hello Dosto !! v8")
